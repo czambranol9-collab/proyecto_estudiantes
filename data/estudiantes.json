@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cesar",
+    "apellido": "Zambrano",
+    "email": "CZ18@gmail.com",
+    "carnet": "0001",
+    "notas": {
+      "Sociales": [
+        19
+      ]
+    },
+    "materias": [
+      "Sociales"
+    ]
+  }
+]
